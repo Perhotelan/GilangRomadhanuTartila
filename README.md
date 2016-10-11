@@ -1,4 +1,4 @@
-# Proyek 2
+# Pengembangan Sistem Informasi Geografis Menggunakan Yii2 Framework Dengan Sub Modul Pemesanan Hotel
 This is example repository for educational purpose
 ## Pre Requisite
 * Windows Operating System
