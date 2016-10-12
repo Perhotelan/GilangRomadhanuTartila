@@ -37,8 +37,8 @@ Ruang lingkup pada proposal ini meliputi :
 
 | Kegiatan | Oktober | November | Desember | Januari | Februari |
 | --- | --- | --- | --- | --- | --- |
-| Minggu | Minggu | Minggu | Minggu | Minggu |
-| 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 |
+| | Minggu | Minggu | Minggu | Minggu | Minggu |
+| | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 |
 | Pengajuan dan Review Proposal | | | | | | | | | | | | | | | | | | | | |
 | Proses Bimbingan | | | | | | | | | | | | | | | | | | | | |
 | Pengumpulan draft laporan | | | | | | | | | | | | | | | | | | | | |
