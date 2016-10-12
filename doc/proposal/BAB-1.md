@@ -39,10 +39,10 @@ Ruang lingkup pada proposal ini meliputi :
 | --- | --- | --- | --- | --- | --- |
 | | Minggu | Minggu | Minggu | Minggu | Minggu |
 | | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 | 1  2  3  4 |
-| Pengajuan dan Review Proposal | oxxo | oooo | oooo | oooo | oooo |
-| Proses Bimbingan | ooxx | xxxx | xxxx | xooo | oooo |
-| Pengumpulan draft laporan | oooo | oooo | oooo | xxoo | oooo |
-| Sidang Proyek I | oooo | oooo | oooo | oxxx | oooo |
-| Pengumpulan distribusi CD dan Jurnal Proyek I | oooo | oooo | oooo | ooox | xooo |
+| Pengajuan dan Review Proposal | o x x o | o o o o | o o o o | o o o o | o o o o |
+| Proses Bimbingan | o o x x | x x x x | x x x x | x o o o | o o o o |
+| Pengumpulan draft laporan | o o o o | o o o o | o o o o | x x o o | o o o o |
+| Sidang Proyek I | o o o o | o o o o | o o o o | o x x x | o o o o |
+| Pengumpulan distribusi CD dan Jurnal Proyek I | o o o o | o o o o | o o o o | o o o x | x o o o |
 
 Gambar 1.1 Jadwal Kegiatan
