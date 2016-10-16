@@ -1,4 +1,4 @@
-# Pengembangan Sistem Informasi Perhotelan Menggunakan Yii2 Framework Dengan Sub Modul Pemesanan Hotel
+# Pengembangan Sistem Informasi Perhotelan Menggunakan Yii2 Framework Dengan Sub Modul Pemesanan Kamar Hotel
 This is example repository for educational purpose
 ## Pre Requisite
 * Windows Operating System
@@ -14,7 +14,6 @@ This is example repository for educational purpose
 NPM| Name| Class | Prodi
 ------------ | ------------- | ------------- | -------------
 1144033| Gilang Romadhanu Tartila| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
-1144092| Suriadi Zainuddin| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
 
 
 ## Reference
