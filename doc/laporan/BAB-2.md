@@ -45,10 +45,10 @@ Aplikasi ini dapat memfasilitasi pengguna komputer agar lebih mempermudah suatu 
 </p>
 **1. 4 Website**
 <p align="justify">
-_Website_ adalah kumpulan dari halaman – halaman situs, yang biasanya terangkum dalam sebuah domain atau subdomain, yang tempatnya berada didalam _World Wide Web_ (WWW) di _internet_.[Kadir3]
+Website adalah kumpulan dari halaman – halaman situs, yang biasanya terangkum dalam sebuah domain atau subdomain, yang tempatnya berada didalam _World Wide Web_ (WWW) di _internet_.[Kadir3]
 </p>
 <p align="justify">
-_Website_ dapat memberikan sumberinformasi tertentu bagi para pengguna untuk mencari informasi yang dibutuhkan. Contohnya, ada beberapa situs –situs bisnis, situs – situs _e-mail_ gratisan dan situs – situs pendidikan.
+Website dapat memberikan sumberinformasi tertentu bagi para pengguna untuk mencari informasi yang dibutuhkan. Contohnya, ada beberapa situs –situs bisnis, situs – situs _e-mail_ gratisan dan situs – situs pendidikan.
 </p>
 **2.5 Konsep OOP(Object Oriented Programming)**
 <p align="justify">
@@ -92,17 +92,22 @@ OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorient
 Unified Modeling Language merupakan salah satu alat bantu yang dapat digunakan dalam bahasa pemrograman yang berorientasi objek, saat ini UML akan mulai menjadi standar masa depan bagi industri pengembangan sistem/perangkat lunak yang berorientasi objek sebab pada dasarnya UML digunakan oleh banyak perusahaan raksasa seperti IBM, Microsoft, dan sebagainya. [Nugroho8]
 </p>
 ## 2.6.1 UML
-
+<p align="justify">
 1. Unified Modeling Language merupakan metode pengembangan perangkat lunak (sistem informasi) dengan menggunakan metode grafis serta merupakan bahasa untuk visualisasi, spesifikasi, konstruksi serta dokumentasi.
+</p>
+<p align="justify">
 2. Unified Modeling Language (UML) adalah bahasa yang telah menjadi standard untuk visualisasi, menetapkan, membangun dan mendokumentasikan arti suatu sistem perangkat lunak.
+</p>
+<p align="justify">
 3. Unified Modeling Language (UML) dapat didefinisikan sebagai sebuah bahasa yang telah menjadi standar dalam industri untuk visualisasi, merancang dan mendokumentasikan sistem perangkat lunak.
-<p align="justify">
-Unified Modeling Language (UML) merupakan standard modeling language yang terdiri dari kumpulan-kumpulan diagram, dikembangkan untuk membantu para pengembang sistem dan software agar bisa menyelesaikan tugas-tugas seperti Spesifikasi, Visualisasi, Desain arsitektur, Konstruksi, Simulasi, testing, Dokumentasi.[Nugroho8]
 </p>
 <p align="justify">
-Berdasarkan beberapa pendapat yang dikemukakan diatas dapat ditarik kesimpulan bahwa &quot;Unified Modeling Language (UML) adalah sebuah bahasa yang berdasarkan grafik atau gambar untuk menvisualisasikan, menspesifikasikan, membangun dan pendokumentasian dari sebuah sistem pengembangan perangkat lunak berbasis Objek (OOP)  ( [Object Oriented programming](http://informatika.web.id/object-oriented-programming.htm))&quot;.
+4. Unified Modeling Language (UML) merupakan standard modeling language yang terdiri dari kumpulan-kumpulan diagram, dikembangkan untuk membantu para pengembang sistem dan software agar bisa menyelesaikan tugas-tugas seperti Spesifikasi, Visualisasi, Desain arsitektur, Konstruksi, Simulasi, testing, Dokumentasi.[Nugroho8]
 </p>
-**2.6.2 Langkah-langkah penggunaan Unified Modeling Language (UML)**
+<p align="justify">
+5. Berdasarkan beberapa pendapat yang dikemukakan diatas dapat ditarik kesimpulan bahwa &quot;Unified Modeling Language (UML) adalah sebuah bahasa yang berdasarkan grafik atau gambar untuk menvisualisasikan, menspesifikasikan, membangun dan pendokumentasian dari sebuah sistem pengembangan perangkat lunak berbasis Objek (OOP)  ( [Object Oriented programming](http://informatika.web.id/object-oriented-programming.htm))&quot;.
+</p>
+## 2.6.2 Langkah-langkah penggunaan Unified Modeling Language (UML)
 <p align="justify">
 Adapun langkah-langkah penggunaan Unified Modeling Language (UML). [Nugroho8] diantaranya sebagai berikut :
 </p>
@@ -138,14 +143,14 @@ Pemetaan (mapping) Unified Modeling Language (UML) bersifat dua arah yaitu :
 
 **1. 7 Data Dictionary(DD) atau Kamus Data**
 
-**2.7.1 Kamus Data**
+## 2.7.1 Kamus Data
 <p align="justify">
 Kamus data adalah suatu daftar data elemen yang terorganisir dengan definisi yang tetap dan sesuai dengan sistem, sehingga user dan analis sistem mempunyai pengertian yang sama tentang input, output, dan komponen data store.[Maynard5]
 </p>
 <p align="justify">
 Kamus data ini sangat membantu analis sistem dalam mendefinisikan data yang mengalir di dalam sistem, sehingga pendefinisian data itu dapat dilakukan dengan lengkap dan terstruktur. Pembentukan kamus data dilaksanakan dalam tahap analisis dan perancangan suatu sistem.
 </p>
-**2.7.2 Isi Kamus Data**
+## 2.7.2 Isi Kamus Data
 <p align="justify">
 Nama arus data, KD (kamus data) dibuat berdasarkan arus data yang mengalir alias kalau ada (karena data yang sama mempunyai nama yang beda untuk setiap orang/departemen satu dengan yang lainnya.[Maynard5] Bentuk data (arus data dapat mengalir) sebagai berikut :
 </p>
@@ -164,9 +169,9 @@ Dengan demikian bentuk dari data yang mengalir ini berupa :
 5. Variabel
 6. Parameter
 7. Field
-<p align="justify">
+
 Struktur data, struktur data menunjukkan arus data yang dicatat di DD terdiri dari item – item apa saja.
-</p>
+
 Contoh – contoh simbol yang digunakan dalam kamus data :
 | **No** | **Simbol** | **Uraian** |
 | --- | --- | --- |
@@ -178,9 +183,9 @@ Contoh – contoh simbol yang digunakan dalam kamus data :
 | 6 | \*\* | Komentar |
 | 7 | @ | Identifikasi atribut kunci |
 | 8 | L | Pemisahan sejumlah alternative pilihan antara symbol [] |
-<p align="center">
+
 Gambar 2.4 Simbol Kamus Data
-</p>
+
 **1. 8 Basis Data (****Data Base****)**
 <p align="justify">
 Basisdata adalah kumpulan informasi yang disimpan didalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut.[Kadir4]
@@ -192,7 +197,7 @@ Konsep dasar dari basis data adalah kumpulan dari catatan – catatan, atau potong
 <p align="justify">
 PHP merupakan script untuk pemrograman script web, server-site, script yang membuat document HTML secara _on the fly_, dokumen HTML yang dihasilkan dari suatu aplikasi bukan dokuman HTML yang dibuat dengan menggunakan editor teks atau editor HTML.[Kadir3]
 </p>
-**2.9.1 Konsep Dasar PHP**
+## 2.9.1 Konsep Dasar PHP
 <p align="justify">
 Kode PHP diawali dengan tanda lebih kecil (&lt;) dan diakhiri dengan tanda lebih besar (&gt;). Ada beberapa cara untuk menuliskan skrip PHP yaitu:
 </p>
@@ -203,7 +208,7 @@ Kode PHP diawali dengan tanda lebih kecil (&lt;) dan diakhiri dengan tanda lebih
 <p align="justify">
 Pemisah antar instruksi adalah tanda titik koma (;) dan untuk membuat atau menambahkan komentar. Untuk menuliskan skrip PHP ada dua cara yang sering digunakan yaitu _Embedded Script_ dan _Non-Embedded Script_.[Kadir3]
 </p>
-**2.9.3 Fungsi PHP dan MySQL**
+## 2.9.2 Fungsi PHP dan MySQL
 <p align="justify">
 Adapun fungsi PHP untuk mengakses MySQL yang biasa digunakan diantaranya adalah:
 </p>
@@ -249,7 +254,7 @@ Hypertext Markup Language merupakan standard bahasa yang digunakan untuk menampi
 3. Membuat online form yang bisa di gunakan untuk menangani pendaftaran,transaksi secara online.
 4. Menambahkan objectobject seperti image, audio, video dan juga java appletdalam document HTML.[Kadir3]
 
-**2.10.1 Struktur Dasar HTML**
+## 2.10.1 Struktur Dasar HTML
 <p align="justify">
 HTML terdiri dari beberapa bagian yang fungsinya sebagai penanda suatu kelompokperintah tertentu, misalnya kelompok perintah _form_ yang ditandai dengan kode&lt;form&gt;, judul dengan &lt;title&gt; dan sebagainya.[Kadir3] Untuk lebih lanjut mengenai bagian - bagian HTML perhatikan skema dibawah ini :
 </p>
@@ -316,9 +321,9 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 
 **1. 15. Metode Penelitian**
 
-**2.15.1** **Metode SDLC (****System Development Life Cycle****)**
+## 2.15.1 Metode SDLC (****System Development Life Cycle****)
 
-<img src="../img/sdlc.jpg" width="400px">
+<img src="../../img/sdlc.jpg" width="400px">
 _Gambar 2.1 SDLC_
 
 <p align="justify">
