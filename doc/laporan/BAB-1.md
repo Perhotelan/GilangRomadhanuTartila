@@ -27,7 +27,11 @@ Dari latar belakang di atas, masalah yang teridentifikasi antara lain :
 </p>
 <p align="justify">
 1. Belum adanya pemesanan kamar hotel secara online.
+</p>
+<p align="justify">
 2. Belum adanya transaksi pembayaran secara online.
+</p>
+<p align="justify">
 3. Belum adanya informasi secara _up-to-date_ yang terdiri dari nama hotel, harga hotel, lokasi, fasilitas dan titik – titik terdekat objek wisata dengan lokasi hotel.
 </p>
 **1. 3 Tujuan**
@@ -35,7 +39,11 @@ Dari latar belakang di atas, masalah yang teridentifikasi antara lain :
 Tujuan dalam pembuatan website ini adalah sebagai berikut:
 <p align="justify">
 1. Dibangun sebuah proses pemesanan kamar hotel secara online dengan menggunakan Yii2 Framework berbasis web based.
+</p>
+<p align="justify">
 2. Dibangun sebuah proses transaksi pembayaran pada saat pemesanan online telah ditentukan dengan menggunakan Yii2 Framework berbasis web based.
+</p>
+<p align="justify">
 3. Dibangun sebuah proses pencarian lokasi hotel dengan menggunakan teknologi Marker Cluster dan mencakup informasi dari hotel (nama hotel, harga hotel, fasilitas, lokasi dan titik – titik terdekat wisata dengan hotel.
 </p>
 **1. 4 Ruang Lingkup**
@@ -43,20 +51,29 @@ Tujuan dalam pembuatan website ini adalah sebagai berikut:
 Dalam pembuatan website ini terdapat beberapa pembatasan yaitu:
 <p align="justify">
 1. Menyediakan informasi mengenai profil hotel, fasilitas hotel.
+</p>
+<p align="justify">
 2. Menyediakan sistem pemesanan secara online.
+</p>
+<p align="justify">
 3. Di dalam pembuatan aplikasi dibutuhkan software seperti: XAMPP, Sublime Text, Oracle, Yii2 Framework,dan Windows 10 Pro sebagai Sistem Operasi
 </p>
 **1. 5 Sistematika Penulisan**
 <p align="justify">
 Laporan ini secara keseluruhan terdiri dari lima bab, dimana secara garis besar masing – masing bab membahas hal – hal sebagai berikut:
-
+</p>
+<p align="justify">
 Bab I. Pendahuluan, berisi tentang latar belakang, identifikasi masalah, tujuan, ruang lingkup, sistematika penulisan. Latar belakang berisi ulasan ringkas mengenai keadaan/kondisi yang ada dan kekurangan dari sistem yang diamati sehingga muncul topik yang diambil, Identifikasi masalah berisi berbagai masalah yang sudah dikenali dan akan diberikan solusinya melalui fungsi dari sistem/aplikasi/alat yang akan dibuat, Tujuan berisi tujuan untuk apa sistem/aplikasi/alat itu dibuat, Ruang lingkup berisi batasan – batasan proyek atau cakupan aplikasi yang akan dibangun, dan Sistematika penulisan menjelaskan isi yang ada di laporan proyek.
-
+</p>
+<p align="justify">
 Bab II. Landasan Teori, berisi teori – teori mengenai perangkat lunak yang digunakan dalam pembuatan proyek, antara lain teori hotel, pelayanan, aplikasi, _website_, _Unified Modeling Language (UML)_, Kamus Data, Basis Data, PHP, HTML, Yii Framework, XAMPP, Sublime Text, Apache, dan Pengujian, Metode Penelitian, Jurnal Penelitian
-
+</p>
+<p align="justify">
 Bab III. Analisis dan Perancangan, berisi mengenai analisis dan perancangan. Analisis terdiri dari analisis sistem yang sedang berjalan, analisis prosedur / Flow Map yang berjalan, analisis sistem yang akan dibangun, analisis kebutuhan aplikasi serta analisis kebutuhan perangkat lunak dan perangkat keras. Perancangan menggunakan _object oriented_ terdiri dari use case diagram, class diagram, interaction diagram, sequence diagram, callaboration diagram, actifity diagram, state chart diagram, component diagram, deployment diagram, objek diagram.
-
+</p>
+<p align="justify">
 Bab IV. Implementasi dan Pengujian, yaitu membahas tentang implementasi sebuah aplikasi yang meliputi lingkungan aplikasi, tampilan antar muka, pengujian, dan petunjuk pemakaian
-
+</p>
+<p align="justify">
 Bab V. Kesimpulan dan Saran, merupakan bagian akhir dari laporan yang berisi kesimpulan dan saran dari proyek yang telah dibuat sehingga dapat menjadi acuan dalam pengembangan proyek lebih lanjut.
 </p>
