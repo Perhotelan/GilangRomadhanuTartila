@@ -1,7 +1,7 @@
 **BAB II**
 
 **LANDASAN TEORI**
-
+<p align="justify">
 **1. 1 Hotel**
 
 Hotel adalah suatu bentuk bangunan, lambang, perusahaan atau badan usaha akomodasi yang menyediakan pelayanan jasa penginapan, penyedia makanan dan minuman serta fasilitas jasa lainnya dimana semua pelayanan itu diperuntukkan bagi masyarakat umum, baik mereka yang bermalam di hotel tersebut ataupun mereka yang hanya menggunakan fasilitas tertentu yang dimiliki hotel itu.[Tan2]
@@ -27,7 +27,7 @@ Pelayanan adalah aktivitas atau hasil yang dapat ditawarkan oleh sebuah lembaga 
 
 Perangkat lunak aplikasi adalah suatu subkelas perangkat lunak komputer yang memanfaatkan kemampuan komputer langsung untuk melakukan suatu tugas yang diinginkan pengguna.[Yakup1]
 
-        Aplikasi ini dapat memfasilitasi pengguna komputer agar lebih mempermudah suatu pekerjaan. Contohnya, jika kita ingin membuat database tetunya kita akan menggunakan aplikasi yang sesuai dengan pekerjaan yang kita buat dan berhubungan dengan pembuatan database.
+Aplikasi ini dapat memfasilitasi pengguna komputer agar lebih mempermudah suatu pekerjaan. Contohnya, jika kita ingin membuat database tetunya kita akan menggunakan aplikasi yang sesuai dengan pekerjaan yang kita buat dan berhubungan dengan pembuatan database.
 
 **1. 4 Website**
 
@@ -141,9 +141,9 @@ Dengan demikian bentuk dari data yang mengalir ini berupa :
 7. Field
 
 Struktur data, struktur data menunjukkan arus data yang dicatat di DD terdiri dari item – item apa saja.
-
+</p>
 Contoh – contoh simbol yang digunakan dalam kamus data :
-
+<p align="center">
 | **No** | **Simbol** | **Uraian** |
 | --- | --- | --- |
 | 1 | = | Terdiri dari, mendefinisikan, diuraikan menjadi, artinya |
@@ -156,14 +156,12 @@ Contoh – contoh simbol yang digunakan dalam kamus data :
 | 8 | L | Pemisahan sejumlah alternative pilihan antara symbol [] |
 
 Gambar 2.4 Simbol Kamus Data
-
+</p>
 **1. 8 Basis Data (****Data Base****)**
-
+<p align="justify">
 Basisdata adalah kumpulan informasi yang disimpan didalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut.[Kadir4]
 
 Konsep dasar dari basis data adalah kumpulan dari catatan – catatan, atau potongan dari pengetahuan. Sebuah basis data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya : penjelasan ini disebut skema. Skema menggambarkan obyek yang diwakili suatu basis data, dan hubungan di antara obyek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur basis data ini dikenal sebagai model basis data atau model data.[Kadir4]
-
-
 
 **1. 9 PHP (****Hypertext Preprocessing****)**
 
@@ -284,8 +282,6 @@ Pada saat pengujian, _engineer_ membuat serangkaian kasus uji yang bertujuan unt
 1. Untuk mengetahui fungsinya dilakukan dengan mendemonstrasikan fungsi tersebut bisa berjalan sempurna atau ada eror (_Black box testing_)
 2. Mengetahui cara kerja internal dari produk _(White box testing)_
 
-
-
 **2.14.1 Pengujian Black Box**
 
 Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memungkinkan analisis sistem memperoleh kumpulan kondisi input yang akan mengerjakan seluruh keperluan fungsional program. Tujuan metode ini mencari kesalahan pada :
@@ -301,12 +297,12 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 **1. 15. Metode Penelitian**
 
 **2.15.1** **Metode SDLC (****System Development Life Cycle****)**
-
+</p>
 <p align="center">
   <img src="../img/sdlc.jpg" width="400px">
-</p>
 _Gambar 2.1 SDLC_
-
+</p>
+<p align="justify">
 SDLC (_System Development Life Cycle_) adalah proses pembuatan dan pengubahan sistem serta model dan metodologi yang digunakan untuk mengembangkan sistem – sistem tersebut. Konsep ini umumnya merujuk pada sistem komputer atau sistem informasi[Gulo9]. Yang terdiri dari tahap – tahap:
 
 1. Tahap Perencanaan
@@ -329,9 +325,9 @@ Membangun sistem informasi baru
 2. Tahap Maintance
 
 Memelihara dan melakukan perbaikan atau peningkatan sistem informasi baru bila diperlukan
-
+</p>
 **1. 16. Jurnal Penelitian**
-
+<p align="center">
 | Nama Jurnal | Peneliti | Jurnal Penelitian | Kesimpulan |
 | --- | --- | --- | --- |
 | Jurnal Ilmiah Sistem Informasi | Krisna Mahendraswara | Studi Terhadap Kualitas Pelayanan di Hotel Grand Candi Semarang | Tingkat pelayanan di sebuah hotel harus memuaskan agar pelanggan bisa merasa puas |
@@ -339,3 +335,4 @@ Memelihara dan melakukan perbaikan atau peningkatan sistem informasi baru bila d
 | Jurnal Ilmiah Ranggagading | Saefudin Zuhdi | Analisis Pelayanan Hotel tehadap Kepuasan Tamu | Secara umu pelayanan hotel mempunyai pengaruh terhadap tingkat kepuasan pelanggan pada Hotel Parango _I_. |
 | Jurnal Ilmiah Manajemen | Ni Putu Sawitri, Ni Nyoman Kerti Yasa dan Abdulah Jawas | Pengaruh kualitas Pelayanan Terhadap Kepuasan dan Loyalitas Pelanggan Tegal Sari _Accomodation_ di Ubub | Semakin baik kualitas pelayanan yang diberikan oleh Tegal Sari _Accommodation_ dengan koefisien maka loyalitas pelanggan akan meningkat |
 | Jurnal Ilmiah Sistem Informasi | Reza Dimas Sigit P dan Farah Oktafani S.E, M.M | Pengaruh Kualitas Pelayanan terhadap Kepuasan Pelanggan Pengguna Jasa Lapangan Futsal (Studi Kasus pada IFI Futsal Bandung) | Berdasarkan analisis kualitas pelayanan yang terdiri dari _tangible_ (Bukti Fisik), _reliability_ (Keandalan), _responsiveness_ (Ketanggapan), _assurance_ (Jaminan), _empathy_ (Empati) harus memperoleh nilai yang tinggi agar pelayanan yang dilakukan dapat baik. |
+</p>
