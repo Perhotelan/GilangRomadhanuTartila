@@ -5,6 +5,4 @@ Seiring perkembangan ilmu pengetahuan dan teknologi telah memberikan dorongan ya
 <p align="justify">
 Berdasarkan permasalahan diatas maka dibuat website yang berisi tentang semua hal yang berkaitan dengan aplikasiperhotelan yang yang dapat memudahkan konsumen untuk melakukan pemesanan melalui website yang akan kami rancang dan bangun. Untuk membangun Aplikasi Perhotelan, diperlukan beberapa software antara lain dengan menggunakan Yii2 Framework, Oracle, Sublime Text serta memakai bahasa pemrograman PHP.
 </p>
-<p align="justify">
 **Kata kunci** : Pemesanan Kamar Hotel, PHP, _Oracle_, Yii2 Framework, Sublime Text
-</p>
