@@ -186,9 +186,9 @@ Contoh – contoh simbol yang digunakan dalam kamus data :
 | 6 | \*\* | Komentar |
 | 7 | @ | Identifikasi atribut kunci |
 | 8 | L | Pemisahan sejumlah alternative pilihan antara symbol [] |
-
+<p align="center">
 Gambar 2.4 Simbol Kamus Data
-
+</p>
 **2. 8 Basis Data (****Data Base****)**
 <p align="justify">
 Basisdata adalah kumpulan informasi yang disimpan didalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut.[Kadir4]
@@ -329,7 +329,9 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 <p align="center">
 <img src="../../img/laporan/sdlc.jpg" width="400px">
 </p>
-_Gambar 2.1 SDLC_
+<p align="center">
+Gambar 2.1 SDLC
+</p>
 
 <p align="justify">
 SDLC (_System Development Life Cycle_) adalah proses pembuatan dan pengubahan sistem serta model dan metodologi yang digunakan untuk mengembangkan sistem – sistem tersebut. Konsep ini umumnya merujuk pada sistem komputer atau sistem informasi[Gulo9]. Yang terdiri dari tahap – tahap:
