@@ -2,7 +2,7 @@
 
 **LANDASAN TEORI**
 
-**1. 1 Hotel**
+**2. 1 Hotel**
 <p align="justify">
 Hotel adalah suatu bentuk bangunan, lambang, perusahaan atau badan usaha akomodasi yang menyediakan pelayanan jasa penginapan, penyedia makanan dan minuman serta fasilitas jasa lainnya dimana semua pelayanan itu diperuntukkan bagi masyarakat umum, baik mereka yang bermalam di hotel tersebut ataupun mereka yang hanya menggunakan fasilitas tertentu yang dimiliki hotel itu.[Tan2]
 </p>
@@ -32,25 +32,25 @@ Pengertian hotel ini dapat disimpulkan dari beberapa definisi hotel tersebut dib
 <p align="justify">
 3. Sarana tempat tinggal umum untuk wisatawan dengan memberikan pelayanan jasa kamar, penyedia makanan dan minuman serta akomodasi dengan syarat pembayaran.
 </p>
-**1. 2 Pelayanan**
+**2. 2 Pelayanan**
 <p align="justify">
 Pelayanan adalah aktivitas atau hasil yang dapat ditawarkan oleh sebuah lembaga kepada pihak lain yang biasanya tidak kasat mata, dan hasilnya tidak dapat dimiliki oleh pihak lain tersebut.[Tan2]
 </p>
-**1. 3 Aplikasi**
+**2. 3 Aplikasi**
 <p align="justify">
 Perangkat lunak aplikasi adalah suatu subkelas perangkat lunak komputer yang memanfaatkan kemampuan komputer langsung untuk melakukan suatu tugas yang diinginkan pengguna.[Yakup1]
 </p>
 <p align="justify">
 Aplikasi ini dapat memfasilitasi pengguna komputer agar lebih mempermudah suatu pekerjaan. Contohnya, jika kita ingin membuat database tetunya kita akan menggunakan aplikasi yang sesuai dengan pekerjaan yang kita buat dan berhubungan dengan pembuatan database.
 </p>
-**1. 4 Website**
+**2. 4 Website**
 <p align="justify">
 Website adalah kumpulan dari halaman – halaman situs, yang biasanya terangkum dalam sebuah domain atau subdomain, yang tempatnya berada didalam _World Wide Web_ (WWW) di _internet_.[Kadir3]
 </p>
 <p align="justify">
 Website dapat memberikan sumberinformasi tertentu bagi para pengguna untuk mencari informasi yang dibutuhkan. Contohnya, ada beberapa situs –situs bisnis, situs – situs _e-mail_ gratisan dan situs – situs pendidikan.
 </p>
-**2.5 Konsep OOP(Object Oriented Programming)**
+**2. 5 Konsep OOP(Object Oriented Programming)**
 <p align="justify">
 OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorientasi kepada objek. Tujuan dari OOP diciptakan adalah untuk mempermudah pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari.[Sakur6]
 </p>
@@ -87,7 +87,7 @@ OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorient
 2. Polimorfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
 3. Method overriding.
 
-**1. 6 Unified Modeling Language** **(UML)**
+**2. 6 Unified Modeling Language** **(UML)**
 <p align="justify">
 Unified Modeling Language merupakan salah satu alat bantu yang dapat digunakan dalam bahasa pemrograman yang berorientasi objek, saat ini UML akan mulai menjadi standar masa depan bagi industri pengembangan sistem/perangkat lunak yang berorientasi objek sebab pada dasarnya UML digunakan oleh banyak perusahaan raksasa seperti IBM, Microsoft, dan sebagainya. [Nugroho8]
 </p>
@@ -141,7 +141,7 @@ Pemetaan (mapping) Unified Modeling Language (UML) bersifat dua arah yaitu :
 1. Generasi  kode bahasa pemprograman tertentu dari Unified Modeling Language (UML) forward engineering.
 2. Generasi kode belum sesuai dengan kebutuhan dan harapan pengguna, pengembang dapat melakukan langkah balik bersifat iterative dari implementasi ke Unified Modeling Language (UML) hingga didapat sistem/peranti lunak yang sesuai dengan harapan pengguna dan pengembang.
 
-**1. 7 Data Dictionary(DD) atau Kamus Data**
+**2. 7 Data Dictionary(DD) atau Kamus Data**
 
 ## 2.7.1 Kamus Data
 <p align="justify">
@@ -169,10 +169,13 @@ Dengan demikian bentuk dari data yang mengalir ini berupa :
 5. Variabel
 6. Parameter
 7. Field
-
+<p align="justify">
 Struktur data, struktur data menunjukkan arus data yang dicatat di DD terdiri dari item – item apa saja.
-
+</p>
+<p align="justify">
 Contoh – contoh simbol yang digunakan dalam kamus data :
+</p>
+
 | **No** | **Simbol** | **Uraian** |
 | --- | --- | --- |
 | 1 | = | Terdiri dari, mendefinisikan, diuraikan menjadi, artinya |
@@ -186,14 +189,14 @@ Contoh – contoh simbol yang digunakan dalam kamus data :
 
 Gambar 2.4 Simbol Kamus Data
 
-**1. 8 Basis Data (****Data Base****)**
+**2. 8 Basis Data (****Data Base****)**
 <p align="justify">
 Basisdata adalah kumpulan informasi yang disimpan didalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut.[Kadir4]
 </p>
 <p align="justify">
 Konsep dasar dari basis data adalah kumpulan dari catatan – catatan, atau potongan dari pengetahuan. Sebuah basis data memiliki penjelasan terstruktur dari jenis fakta yang tersimpan di dalamnya : penjelasan ini disebut skema. Skema menggambarkan obyek yang diwakili suatu basis data, dan hubungan di antara obyek tersebut. Ada banyak cara untuk mengorganisasi skema, atau memodelkan struktur basis data ini dikenal sebagai model basis data atau model data.[Kadir4]
 </p>
-**1. 9 PHP (****Hypertext Preprocessing****)**
+**2. 9 PHP (****Hypertext Preprocessing****)**
 <p align="justify">
 PHP merupakan script untuk pemrograman script web, server-site, script yang membuat document HTML secara _on the fly_, dokumen HTML yang dihasilkan dari suatu aplikasi bukan dokuman HTML yang dibuat dengan menggunakan editor teks atau editor HTML.[Kadir3]
 </p>
@@ -245,7 +248,7 @@ Fungsi ini digunakan untuk menampilkan data. Dalam fungsi ini, hasil query ditam
 </p>
 Array mysql\_fetch\_array(int result, int [result\_type]);.[Kadir3]
 
-**1. 10 Hypertext Markup Language** **(HTML)**
+**2. 10 Hypertext Markup Language** **(HTML)**
 <p align="justify">
 Hypertext Markup Language merupakan standard bahasa yang digunakan untuk menampilkan document web, yang bisa dilakukan dengan HTML yaitu:
 </p>
@@ -282,7 +285,7 @@ Keterangan :
 
 3. Elemen-elemen &lt;body&gt;&lt;/body&gt; berisi tag-tag untuk isi atau layout tampilan situs kita, seperti : &lt;font&gt;&lt;/font&gt;, &lt;table&gt;&lt;/table&gt;, &lt;form&gt;&lt;/form&gt;. Jadi jelas bahwa elemen adalah suatu bagian yang besar yang terdiri dari kodekode_tag_ tersebut. Sedangkan _tag_ hanyalah merupakan bagian dari elemen._Tag_ adalahkode-kode yang digunakan untuk mengatur dokumen HTML. Secara garis besarbentuk umum _tag_ adalah sebagai berikut : &lt;tag-awal&gt;TEKS&lt;tag-akhir&gt;. Namun adajuga _tag_ yang tidak perlu ada _tag_ penutup seperti &lt;br&gt;, &lt;hr&gt;, &lt;img&gt; dan lain-lain.[Kadir3]
 
-**1. 11 Yii Framework**
+**2. 11 Yii Framework**
 <p align="justify">
 Yii Framework merupakan salah satu dari sekian banyak PHP framework yang bersifat open-source, Yii juga merupakan framework (kerangka kerja) PHP berbasis komponen, berkinerja tinggi dan digunakan untuk pengembangan aplikasi web berskala besar.[Sharive7] Keunggulan Yii framework :
 </p>
@@ -292,15 +295,15 @@ Yii Framework merupakan salah satu dari sekian banyak PHP framework yang bersifa
 4. Fungsi yang otomatis
 5. Terhubung dengan Jquery
 
-**1. 12 Xampp**
+**2. 12 Xampp**
 <p align="justify">
 XAMPP adalah perangkat lunak bebas, yang mendukung banyak sistem operasi, merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri _(localhost)_, yang terdiri atas program Apache HTTP Server, MySQL database, dan penerjemah bahasa yang ditulis dengan bahasa pemrograman PHP dan Perl. Nama XAMPP merupakan singkatan dari X (empat sistem operasi apapun), Apache, MySQL, PHP dan Perl.Program ini tersedia dalam GNU _General Public License_ dan bebas, merupakan web server yang mudah digunakan yang dapat melayani tampilan halaman web yang dinamis. Untuk mendapatkanya dapat mendownload langsung dari web resminya.[Kadir3]
 </p>
-**1. 13 Apache**
+**2. 13 Apache**
 <p align="justify">
 Apache sudah berkembang sejak versi pertamanya.Sampai saat ditulisnya artikel ini versi terakhirnya yang ada yaitu Apache ver 2.0.54.Apache bersifat open source, artinya setiap orang boleh menggunakannya, mengambil dan bahkan mengubah kode programnya. Tugas utama apache adalah menghasilkan halaman web yang benar kepada peminta, berdasarkan kode PHP yang ditulisakan oleh pembuat halaman web. Jika diperlukan juga berdasarkan kode PHP yang dituliskan, maka dapat saja suatu database diakses terlebih dahulu (misalnya MySQL) untuk mendukung halaman web yang dihasilkan.[Kadir3]
 </p>
-**1. 14 Pengujian**
+**2. 14 Pengujian**
 <p align="justify">
 Pengujian software adalah elemen kritis dari jaminan kualitas software dan merupakan _review_ akhir dari spesifikasi, perancangan dan pengkodean.
 </p>
@@ -319,7 +322,7 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 • Kesalahan pada struktur data atau akses database
 • Kesalahan inisialisasi dan tujuan akhir.
 
-**1. 15. Metode Penelitian**
+**2. 15. Metode Penelitian**
 
 ## 2.15.1 Metode SDLC (****System Development Life Cycle****)
 
