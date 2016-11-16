@@ -324,9 +324,11 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 
 **2. 15. Metode Penelitian**
 
-## 2.15.1 Metode SDLC (****System Development Life Cycle****)
+## 2.15.1 Metode SDLC (***System Development Life Cycle***)
 
+<p align="center">
 <img src="../../img/sdlc.jpg" width="400px">
+</p>
 _Gambar 2.1 SDLC_
 
 <p align="justify">
